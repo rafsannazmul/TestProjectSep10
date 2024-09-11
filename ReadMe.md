@@ -1,4 +1,6 @@
-#  Chat Project
+#  Firebase Messaging Project
+
+this project was created for assignment under SSBL | 🆔 Rafsan
 
 ℹ️ This is a very simple chat app made using Firebase Cloud Messaging.
 
